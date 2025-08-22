@@ -1,0 +1,8 @@
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\bin\Debug\task1techtestzuzka.exe.config
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\bin\Debug\task1techtestzuzka.exe
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\bin\Debug\task1techtestzuzka.pdb
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\obj\Debug\task1techtestzuzka.csproj.AssemblyReference.cache
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\obj\Debug\task1techtestzuzka.csproj.CoreCompileInputs.cache
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\obj\Debug\task1techtestzuzka.exe
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\obj\Debug\task1techtestzuzka.pdb
+C:\Users\Pouzivatel\source\repos\task1techtestzuzka\task1techtestzuzka\obj\Debug\task1techtestzuzka.exe.config
